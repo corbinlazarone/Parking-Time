@@ -1,1 +1,2 @@
 # Parking-Time
+Built a functioning replication of a parking meter in Java, that takes user input of the number of pennies given and displays the number of quarters, dimes, and nickels from the number of pennies given. While also displaying the max number of parking (in minutes) from the number of pennies given, in quarters, dimes, and nickels. Quarters are equal to 30minutes, dimes are 11 minutes, and nickels are 5 minutes.
